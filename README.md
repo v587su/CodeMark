@@ -1,4 +1,5 @@
- Code for "CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models"
+# Code for "CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models"
+
 This repo contains the source code introduced in our paper, including the scripts to reproduce our experiments and the tool demo CodeMarker.
 
 ## Download the dataset
